@@ -20,7 +20,8 @@ module.exports = defineConfig({
     inlineAssets: true,
   },
   env: {
-    url: 'https://www.automationexercise.com/'
+    url: 'https://www.automationexercise.com/',
+    cartpageurl: 'https://www.automationexercise.com/view_cart'
   },
   e2e: {
     // We've imported your old cypress plugins here.
