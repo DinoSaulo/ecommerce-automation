@@ -1,0 +1,65 @@
+1 - Ariel é uma estagiária na empresa QA Solidario
+
+    - Testes manuais e automatizados no e-commerce (https://automationexercise.com/)
+    - Seu time é composto por 6 devs, 2 QAs (além dela) e um Scrum Master
+    - Sua equipe possui testes automatizados com Cypress
+    - Seu time utiliza o Github, Teams e Jira.
+    - Devido a grande quantidade de testes a execução dos testes demora muito
+    - Toda vez que é gerada uma nova versão o projeto, ela tem que iniciar a execução dos testes automatizados de forma manual
+    - Além disso, o cliente exige que todas as sextas-feiras os testes automatizados sejam executados
+    - Ariel também gosta de ao final da execuação dos testes colocar o resultado da execução dos testes no Teams da equipe
+
+2 - Ariel estava estudando sobre a área de TI e viu sobre DevOps
+    - Pilares
+        - Comunicação
+        - Colaboração
+        - Automação
+        - Monitoração
+
+    - Vantagens
+        - Economia de recursos
+            - DevOps deixa o setor de TI Mais integrado. Com isso, reduzem-se os gastos através da geração de menos erros.
+        - Processos otimizados
+            - DevOps facilita etapas a serem executadas e tornam tudo mais fluido e produtivo.
+        - Qualidade maior
+            - Com a equipe mais integrada, a comunicação entre os profissionais fica melhor e, assim, geram resultados de maior qualidade.
+        - Produção mais rapida
+            - Com a comunicação mais desenvolvida, os processos se tornam mais rapidos.
+        - Motivação maior
+            - Com todos esses resultados, as equipes se sentem mais produtivas, gerando mais motivação
+
+    
+    - Imagem demonstrando o ciclo
+    https://www.targetso.com/wp-content/uploads/2024/02/DevOps.png
+
+        - QAs geralmente atuam na fase de TEST
+
+    - "E se eu implementasse a cultura de devops na minha equipe?"
+        - Poderia automatizar a execução dos meus testes automatizados
+            - automatizando quando ele seriam executados
+                - antes de gerar uma nova versão
+                - Todas as sextas pela noite
+                    - economizar recursos
+            - dar mais automomia para o time
+                - poderá desenvolver os testes automatizandos enquanto executa a suite de regressão
+
+    - Essa etapa de automação da execução de testes automatizados fica na etapa de Integração Contínua ou CI
+    - Algumas ferramentas de Integração Contínua
+        - Jenkins
+        - TeamCity
+        - Circle CI
+        - Travis CI
+        - GitHub Actions
+
+    - GitHub Actions
+        - Criado e mantido pelo GitHub/Microsoft em 2019
+        - Integração nativa com GitHub, simples de usar
+        - Facilidade de uso e configuração
+            - Infrastructure as Code
+        - Custo-benefício
+        - Escalabilidade e segurança
+        - Documentação simples, objetiva, atualizada e em português
+        https://docs.github.com/pt/actions
+        - Integração com actions ("extenções") do GitHub, Microsoft, Docker, Oracle, ... e de pessoas ou organizações independentes
+
+
