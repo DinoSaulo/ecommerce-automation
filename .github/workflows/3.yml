@@ -1,5 +1,6 @@
 # Nome da pipeline exibindo qual gatilho acionou a execução
-name: Executando os testes Cypress via ${{ github.event_name }}
+name: Pipelina de testes do Ecommerce
+run-name: ${{ github.event_name }}
 
 on:
   # Gatilho 1: Push na branch main

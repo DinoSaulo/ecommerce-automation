@@ -1,5 +1,6 @@
 # Nome da pipeline - exibe o tipo de trigger que acionou a execução
-name: Executando os testes Cypress via ${{ github.event_name }}
+name: Pipelina de testes do Ecommerce
+run-name: ${{ github.event_name }}
 
 # Gatilho para execução: roda automaticamente em push para a branch main
 on:
