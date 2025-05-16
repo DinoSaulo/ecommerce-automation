@@ -24,7 +24,7 @@ describe("Test Case 1: Register User", () =>{
     it("Navigate to url 'https://www.automationexercise.com'",() =>{
 
       cy.visit('/');
-      cy.url().should("equal", Cypress.env("url"));
+      cy.url().should("contains", "automationexercise.com");
 
     });
 

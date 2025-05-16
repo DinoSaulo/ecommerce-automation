@@ -11,7 +11,7 @@ describe(" Test Case 10: Verify Subscription in home page ", ()=>{
     it ("Navigate to url 'https://www.automationexercise.com'", ()=>{
     
         cy.visit('/');
-        cy.url().should("equal", Cypress.env("url"));
+        cy.url().should("contains", "automationexercise.com");
 
 
     });

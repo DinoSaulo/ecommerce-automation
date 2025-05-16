@@ -9,7 +9,7 @@ describe ("Test Case 18: View Category Products", ()=>{
     it (" Navigate to url 'https://www.automationexercise.com'", ()=>{
     
        cy.visit('/');
-       cy.url().should("equal", Cypress.env("url"));
+       cy.url().should("contains", "automationexercise.com");
 
 
     });

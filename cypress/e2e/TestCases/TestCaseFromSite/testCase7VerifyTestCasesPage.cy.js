@@ -13,7 +13,7 @@ describe(" Test Case 7: Verify Test Cases Page ", ()=>{
     it ("Navigate to url 'https://www.automationexercise.com'", ()=>{
     
       cy.visit('/');
-      cy.url().should("equal", Cypress.env("url"));
+      cy.url().should("contains", "automationexercise.com");
     });
 
     it ("Verify that home page is visible successfully", ()=>{

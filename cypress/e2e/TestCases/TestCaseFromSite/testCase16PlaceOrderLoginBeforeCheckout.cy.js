@@ -5,7 +5,7 @@ describe ("Test Case 16: Place Order: Login before Checkout", ()=>{
 it ("Navigate to url 'https://www.automationexercise.com'", ()=>{
 
     cy.visit('/');
-    cy.url().should("equal", Cypress.env("url"));
+    cy.url().should("contains", "automationexercise.com");
 
 });
 

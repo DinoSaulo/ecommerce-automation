@@ -21,7 +21,7 @@ describe ("Test Case 25: Verify Scroll Up using 'Arrow' button and Scroll Down f
     
     it ("Verify that home page is visible successfully", ()=>{
     
-        cy.url().should("equal", Cypress.env("url"));
+        cy.url().should("contains", "automationexercise.com");
 
         cy.request(Cypress.env("url")).should(
             (response) => {

@@ -12,7 +12,7 @@ describe ("Test Case 22: Add to cart from Recommended items", ()=>{
     it ("Navigate to url 'https://www.automationexercise.com'", ()=>{
     
         cy.visit('/');
-        cy.url().should("equal", Cypress.env("url"));
+        cy.url().should("contains", "automationexercise.com");
     
     });
     

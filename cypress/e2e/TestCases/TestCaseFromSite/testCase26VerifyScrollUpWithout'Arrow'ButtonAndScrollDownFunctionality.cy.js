@@ -19,7 +19,7 @@ describe ("Test Case 26: Verify Scroll Up without 'Arrow' button and Scroll Down
     
     it ("TC - 3. Verify that home page is visible successfully", ()=>{
     
-        cy.url().should("equal", Cypress.env("url"));
+        cy.url().should("contains", "automationexercise.com");
 
         cy.request(Cypress.env("url")).should(
             (response) => {

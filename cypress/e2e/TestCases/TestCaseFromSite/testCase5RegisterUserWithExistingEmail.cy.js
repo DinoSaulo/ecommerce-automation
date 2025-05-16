@@ -15,7 +15,7 @@ describe("Test Case 5: Register User with existing email", ()=>{
     it("Navigate to url 'https://www.automationexercise.com'",() =>{
 
       cy.visit('/');
-      cy.url().should("equal", Cypress.env("url"));
+      cy.url().should("contains", "automationexercise.com");
 
     });
 

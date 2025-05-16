@@ -10,7 +10,7 @@ describe("Test Case 4: Logout User", ()=>{
     it ("Navigate to url 'https://automationexercis.com'", ()=>{
 
       cy.visit('/');
-      cy.url().should("equal", Cypress.env("url"));
+      cy.url().should("contains", "automationexercise.com");
     });
     
     

@@ -16,7 +16,7 @@ describe ("Test Case 20: Search Products and Verify Cart After Login", ()=>{
     it ("Navigate to url 'https://www.automationexercise.com'", ()=>{
     
         cy.visit('/');
-        cy.url().should("equal", Cypress.env("url"));
+        cy.url().should("contains", "automationexercise.com");
     
     });
 

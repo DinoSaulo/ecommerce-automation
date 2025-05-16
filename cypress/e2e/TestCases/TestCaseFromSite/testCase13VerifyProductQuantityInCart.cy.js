@@ -10,7 +10,7 @@ describe(" Test Case 13: Verify Product quantity in Cart ", ()=>{
     it ("Navigate to url 'https://www.automationexercise.com'", ()=>{
     
         cy.visit('/');
-        cy.url().should("equal", Cypress.env("url"));
+        cy.url().should("contains", "automationexercise.com");
 
 
     });

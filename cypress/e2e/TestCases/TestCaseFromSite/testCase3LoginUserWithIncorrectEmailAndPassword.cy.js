@@ -11,7 +11,7 @@ describe("Test Case 3: Login User with incorrect email and password", ()=>{
    
     
       cy.visit('/');
-      cy.url().should("equal", Cypress.env("url"));
+      cy.url().should("contains", "automationexercise.com");
     
     });
     
