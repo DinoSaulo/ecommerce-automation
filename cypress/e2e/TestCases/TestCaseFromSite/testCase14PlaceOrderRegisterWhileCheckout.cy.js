@@ -12,7 +12,7 @@ const elementVisible = "Is Visible";
 
 describe(" Test Case 14: Place Order: Register while Checkout ", ()=>{
 
-    it ("Navigate to url 'https://automationexercise.com'", ()=>{
+    it ("Navigate to url 'https://www.automationexercise.com'", ()=>{
     
       cy.visit('/');
       cy.url().should("equal", Cypress.env("url"));

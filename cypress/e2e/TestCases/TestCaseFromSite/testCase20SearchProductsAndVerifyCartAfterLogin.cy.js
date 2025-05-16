@@ -13,7 +13,7 @@ const positiveMessage = "Inputted Successfully" ;
 
 describe ("Test Case 20: Search Products and Verify Cart After Login", ()=>{
     
-    it ("Navigate to url 'https://automationexercise.com'", ()=>{
+    it ("Navigate to url 'https://www.automationexercise.com'", ()=>{
     
         cy.visit('/');
         cy.url().should("equal", Cypress.env("url"));

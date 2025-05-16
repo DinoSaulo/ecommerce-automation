@@ -6,7 +6,7 @@ const subscription = "Subscription" ;
 
 describe(" Test Case 11: Verify Subscription in Cart page ", ()=>{
 
-    it ("Navigate to url 'https://automationexercise.com'", ()=>{
+    it ("Navigate to url 'https://www.automationexercise.com'", ()=>{
     
         cy.visit('/');
         cy.url().should("equal", Cypress.env("url"));

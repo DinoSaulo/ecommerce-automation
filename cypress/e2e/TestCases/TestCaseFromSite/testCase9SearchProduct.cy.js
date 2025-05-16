@@ -14,7 +14,7 @@ const searchproductText = "Searched Products";
 describe(" Test Case 9: Search Product ", ()=>{
 
 
-    it ("Navigate to url 'https://automationexercise.com'", ()=>{
+    it ("Navigate to url 'https://www.automationexercise.com'", ()=>{
     
         cy.visit('/');
         cy.url().should("equal", Cypress.env("url"));

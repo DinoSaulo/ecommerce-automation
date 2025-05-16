@@ -29,7 +29,7 @@ beforeEach(() => {
 
 describe ("Test Case 23: Verify address details in checkout page", ()=>{
 
-    it ("Navigate to url 'https://automationexercise.com'", ()=>{
+    it ("Navigate to url 'https://www.automationexercise.com'", ()=>{
     
         cy.visit('/');
         cy.url().should("equal", Cypress.env("url"));

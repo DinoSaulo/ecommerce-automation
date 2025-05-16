@@ -70,7 +70,7 @@
   "severity" : "normal"
 }, {
   "uid" : "c2e68105d72dfb0d",
-  "name" : "Navigate to url 'https://automationexercise.com'",
+  "name" : "Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996342751,
     "stop" : 1670996351110,
@@ -190,7 +190,7 @@
   "severity" : "normal"
 }, {
   "uid" : "834c47ddb198b674",
-  "name" : "Navigate to url 'https://automationexercise.com'",
+  "name" : "Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996595529,
     "stop" : 1670996609305,
@@ -200,7 +200,7 @@
   "severity" : "normal"
 }, {
   "uid" : "a201d41450d02fe9",
-  "name" : "Navigate to url 'https://automationexercise.com'",
+  "name" : "Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996699859,
     "stop" : 1670996707776,
@@ -210,7 +210,7 @@
   "severity" : "normal"
 }, {
   "uid" : "c2b4d71d07d589be",
-  "name" : "Navigate to url 'https://automationexercise.com'",
+  "name" : "Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996571577,
     "stop" : 1670996581855,
@@ -280,7 +280,7 @@
   "severity" : "normal"
 }, {
   "uid" : "e8f9a49ade11e4",
-  "name" : "Navigate to url 'https://automationexercise.com'",
+  "name" : "Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996318968,
     "stop" : 1670996327321,
@@ -540,7 +540,7 @@
   "severity" : "normal"
 }, {
   "uid" : "a40535852ec587be",
-  "name" : "Navigate to url 'https://automationexercise.com'",
+  "name" : "Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996352238,
     "stop" : 1670996360067,
@@ -740,7 +740,7 @@
   "severity" : "normal"
 }, {
   "uid" : "a8828081a84e2bc9",
-  "name" : "Navigate to url 'https://automationexercise.com'",
+  "name" : "Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996645622,
     "stop" : 1670996655132,
@@ -990,7 +990,7 @@
   "severity" : "normal"
 }, {
   "uid" : "bf349d65fcc049b1",
-  "name" : "TC - 2. Navigate to url 'https://automationexercise.com'",
+  "name" : "TC - 2. Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996273569,
     "stop" : 1670996283478,
@@ -1010,7 +1010,7 @@
   "severity" : "normal"
 }, {
   "uid" : "6ca154bc7c88fd34",
-  "name" : "Navigate to url 'https://automationexercise.com'",
+  "name" : "Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996429870,
     "stop" : 1670996438547,
@@ -1140,7 +1140,7 @@
   "severity" : "normal"
 }, {
   "uid" : "11cd9cd0b13a67d9",
-  "name" : "Navigate to url 'https://automationexercise.com'",
+  "name" : "Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996382158,
     "stop" : 1670996389433,
@@ -1190,7 +1190,7 @@
   "severity" : "normal"
 }, {
   "uid" : "5de6b53db05099ee",
-  "name" : "Navigate to url 'https://automationexercise.com'",
+  "name" : "Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996248357,
     "stop" : 1670996259088,
@@ -1210,7 +1210,7 @@
   "severity" : "normal"
 }, {
   "uid" : "7c5d2a11a8e544b4",
-  "name" : " Navigate to url 'https://automationexercise.com'",
+  "name" : " Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996372918,
     "stop" : 1670996380726,
@@ -1330,7 +1330,7 @@
   "severity" : "normal"
 }, {
   "uid" : "75f0909d1fa2e5e1",
-  "name" : "Navigate to url 'https://automationexercise.com'",
+  "name" : "Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996402723,
     "stop" : 1670996410568,
@@ -1340,7 +1340,7 @@
   "severity" : "normal"
 }, {
   "uid" : "dde400adc439bd6a",
-  "name" : "Navigate to url 'https://automationexercise.com'",
+  "name" : "Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996455099,
     "stop" : 1670996476435,
@@ -1480,7 +1480,7 @@
   "severity" : "normal"
 }, {
   "uid" : "8080463056166070",
-  "name" : "TC - 2. Navigate to url 'https://automationexercise.com'",
+  "name" : "TC - 2. Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996562734,
     "stop" : 1670996570199,
@@ -1630,7 +1630,7 @@
   "severity" : "normal"
 }, {
   "uid" : "fe7ccccc4a85d07f",
-  "name" : "TC - 2. Navigate to url 'https://automationexercise.com'",
+  "name" : "TC - 2. Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996551373,
     "stop" : 1670996561166,
@@ -1750,7 +1750,7 @@
   "severity" : "normal"
 }, {
   "uid" : "816d3725885c610a",
-  "name" : "Navigate to url 'https://automationexercise.com'",
+  "name" : "Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996302453,
     "stop" : 1670996310578,
@@ -1780,7 +1780,7 @@
   "severity" : "normal"
 }, {
   "uid" : "eaae089ffd41e9a1",
-  "name" : "Navigate to url 'https://automationexercise.com'",
+  "name" : "Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996510234,
     "stop" : 1670996521950,
@@ -1890,7 +1890,7 @@
   "severity" : "normal"
 }, {
   "uid" : "32554cb1327279e2",
-  "name" : "Navigate to url 'https://automationexercise.com'",
+  "name" : "Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996661685,
     "stop" : 1670996674314,
@@ -1970,7 +1970,7 @@
   "severity" : "normal"
 }, {
   "uid" : "1c70e5d73606396e",
-  "name" : "Navigate to url 'https://automationexercise.com'",
+  "name" : "Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996361162,
     "stop" : 1670996369126,
@@ -2090,7 +2090,7 @@
   "severity" : "normal"
 }, {
   "uid" : "6fc12623adf130a5",
-  "name" : "TC - 2. Navigate to url 'https://automationexercise.com'",
+  "name" : "TC - 2. Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996531465,
     "stop" : 1670996542366,
@@ -2110,7 +2110,7 @@
   "severity" : "normal"
 }, {
   "uid" : "531161ea52566bfc",
-  "name" : "Navigate to url 'https://automationexercise.com'",
+  "name" : "Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996680889,
     "stop" : 1670996689737,
@@ -2240,7 +2240,7 @@
   "severity" : "normal"
 }, {
   "uid" : "f8ae342759877e30",
-  "name" : "Navigate to url 'https://automationexercise.com'",
+  "name" : "Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996261455,
     "stop" : 1670996270026,
@@ -2320,7 +2320,7 @@
   "severity" : "normal"
 }, {
   "uid" : "c4f289b643a67d53",
-  "name" : "Navigate to url 'https://automationexercise.com'",
+  "name" : "Navigate to url 'https://www.automationexercise.com'",
   "time" : {
     "start" : 1670996489202,
     "stop" : 1670996499730,
