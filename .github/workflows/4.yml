@@ -8,7 +8,21 @@ on:
 
   # Gatilho 2: Execução agendada - toda sexta-feira às 18h (15h UTC)
   schedule:
-    - cron: '0 15 * * 5'
+    - cron: '0 15 * * 5'  # Toda sexta-feira às 15h UTC (18h no Brasil)
+
+  # Gatilho 3: Execução manual com seleção de navegador
+  workflow_dispatch:
+    inputs:
+      browser:
+        description: 'Selecione o navegador para rodar os testes'
+        required: true
+        default: 'chrome'
+        type: choice
+        options:
+          - chrome
+          - electron
+          - firefox
+
 jobs:
   run-cypress-tests:
     runs-on: ubuntu-latest
@@ -35,3 +49,13 @@ jobs:
           config-file: cypress.config.js
           browser: ${{ github.event.inputs.browser || 'chrome' }}  # Usa o navegador informado ou 'chrome' como fallback
           headless: true
+
+      # Salvamento de artefatos se os testes falharem
+      - name: 📁 Save Cypress artifacts (on failure)
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cypress-artifacts
+          path: |
+            cypress/screenshots
+            cypress/videos

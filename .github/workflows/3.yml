@@ -8,7 +8,21 @@ on:
 
   # Gatilho 2: Execução agendada - toda sexta-feira às 18h (15h UTC)
   schedule:
-    - cron: '0 15 * * 5'
+    - cron: '0 15 * * 5'  # Toda sexta-feira às 15h UTC (18h no Brasil)
+
+  # Gatilho 3: Execução manual com seleção de navegador
+  workflow_dispatch:
+    inputs:
+      browser:
+        description: 'Selecione o navegador para rodar os testes'
+        required: true
+        default: 'chrome'
+        type: choice
+        options:
+          - chrome
+          - electron
+          - firefox
+
 jobs:
   run-cypress-tests:
     runs-on: ubuntu-latest

@@ -1,35 +1,40 @@
-name: Cypress Tests
+# Nome da pipeline - exibe o tipo de trigger que acionou a execução
+name: Executando os testes Cypress via ${{ github.event_name }}
 
+# Gatilho para execução: roda automaticamente em push para a branch main
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
-  workflow_dispatch:
 
 jobs:
   run-cypress-tests:
+    # Define o sistema operacional do runner
     runs-on: ubuntu-latest
 
     steps:
+      # Passo 1: Faz checkout do código do repositório
       - name: 📥 Checkout code
         uses: actions/checkout@v3
 
+      # Passo 2: Configura o Node.js na versão 20.x
       - name: 🟢 Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20.x'
 
+      # Passo 3: Instala as dependências definidas no package-lock.json
       - name: 📦 Install dependencies
         run: npm ci
 
+      # Passo 4: Executa os testes automatizados com Cypress no Chrome, modo headless
       - name: 🚀 Run Cypress tests
         uses: cypress-io/github-action@v6
         with:
-          config-file: cypress.config.js # ou cypress.json se ainda usar o formato antigo
-          browser: chrome # opcional (pode ser chrome, electron, firefox)
+          config-file: cypress.config.js
+          browser: chrome
           headless: true
 
+      # Passo 5: Se os testes falharem, salva screenshots e vídeos para análise posterior
       - name: 📁 Save Cypress artifacts (on failure)
         if: failure()
         uses: actions/upload-artifact@v4
