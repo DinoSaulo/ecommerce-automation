@@ -1,0 +1,40 @@
+name: Cypress Tests
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  run-cypress-tests:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout code
+        uses: actions/checkout@v3
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.x'
+
+      - name: 📦 Install dependencies
+        run: npm ci
+
+      - name: 🚀 Run Cypress tests
+        uses: cypress-io/github-action@v6
+        with:
+          config-file: cypress.config.js # ou cypress.json se ainda usar o formato antigo
+          browser: chrome # opcional (pode ser chrome, electron, firefox)
+          headless: true
+
+      - name: 📁 Save Cypress artifacts (on failure)
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cypress-artifacts
+          path: |
+            cypress/screenshots
+            cypress/videos
