@@ -7,7 +7,7 @@ const elementVisible = "Is Visible";
 
 describe(" Test Case 13: Verify Product quantity in Cart ", ()=>{
 
-    it ("Navigate to url 'http://automationexercise.com'", ()=>{
+    it ("Navigate to url 'https://automationexercise.com'", ()=>{
     
         cy.visit('/');
         cy.url().should("equal", Cypress.env("url"));

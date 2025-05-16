@@ -2,7 +2,7 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "name" : "behaviors",
   "children" : [ {
-    "name" : "Navigate to url 'http://automationexercise.com'",
+    "name" : "Navigate to url 'https://automationexercise.com'",
     "uid" : "5de6b53db05099ee",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -80,7 +80,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Navigate to url 'http://automationexercise.com'",
+    "name" : "Navigate to url 'https://automationexercise.com'",
     "uid" : "f8ae342759877e30",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -158,7 +158,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "TC - 2. Navigate to url 'http://automationexercise.com'",
+    "name" : "TC - 2. Navigate to url 'https://automationexercise.com'",
     "uid" : "bf349d65fcc049b1",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -262,7 +262,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Navigate to url 'http://automationexercise.com'",
+    "name" : "Navigate to url 'https://automationexercise.com'",
     "uid" : "816d3725885c610a",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -366,7 +366,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Navigate to url 'http://automationexercise.com'",
+    "name" : "Navigate to url 'https://automationexercise.com'",
     "uid" : "e8f9a49ade11e4",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -613,7 +613,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Navigate to url 'http://automationexercise.com'",
+    "name" : "Navigate to url 'https://automationexercise.com'",
     "uid" : "c2e68105d72dfb0d",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -821,7 +821,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Navigate to url 'http://automationexercise.com'",
+    "name" : "Navigate to url 'https://automationexercise.com'",
     "uid" : "a40535852ec587be",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -1029,7 +1029,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Navigate to url 'http://automationexercise.com'",
+    "name" : "Navigate to url 'https://automationexercise.com'",
     "uid" : "1c70e5d73606396e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -1107,7 +1107,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : " Navigate to url 'http://automationexercise.com'",
+    "name" : " Navigate to url 'https://automationexercise.com'",
     "uid" : "7c5d2a11a8e544b4",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -1198,7 +1198,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Navigate to url 'http://automationexercise.com'",
+    "name" : "Navigate to url 'https://automationexercise.com'",
     "uid" : "11cd9cd0b13a67d9",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -1289,7 +1289,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Navigate to url 'http://automationexercise.com'",
+    "name" : "Navigate to url 'https://automationexercise.com'",
     "uid" : "75f0909d1fa2e5e1",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -1497,7 +1497,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Navigate to url 'http://automationexercise.com'",
+    "name" : "Navigate to url 'https://automationexercise.com'",
     "uid" : "6ca154bc7c88fd34",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -1627,7 +1627,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Navigate to url 'http://automationexercise.com'",
+    "name" : "Navigate to url 'https://automationexercise.com'",
     "uid" : "dde400adc439bd6a",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -1731,7 +1731,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Navigate to url 'http://automationexercise.com'",
+    "name" : "Navigate to url 'https://automationexercise.com'",
     "uid" : "c4f289b643a67d53",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -1809,7 +1809,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Navigate to url 'http://automationexercise.com'",
+    "name" : "Navigate to url 'https://automationexercise.com'",
     "uid" : "eaae089ffd41e9a1",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -1991,7 +1991,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "TC - 2. Navigate to url 'http://automationexercise.com'",
+    "name" : "TC - 2. Navigate to url 'https://automationexercise.com'",
     "uid" : "6fc12623adf130a5",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -2212,7 +2212,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "TC - 2. Navigate to url 'http://automationexercise.com'",
+    "name" : "TC - 2. Navigate to url 'https://automationexercise.com'",
     "uid" : "fe7ccccc4a85d07f",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -2290,7 +2290,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "TC - 2. Navigate to url 'http://automationexercise.com'",
+    "name" : "TC - 2. Navigate to url 'https://automationexercise.com'",
     "uid" : "8080463056166070",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -2368,7 +2368,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Navigate to url 'http://automationexercise.com'",
+    "name" : "Navigate to url 'https://automationexercise.com'",
     "uid" : "c2b4d71d07d589be",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -2472,7 +2472,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Navigate to url 'http://automationexercise.com'",
+    "name" : "Navigate to url 'https://automationexercise.com'",
     "uid" : "834c47ddb198b674",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -2563,7 +2563,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Navigate to url 'http://automationexercis.com'",
+    "name" : "Navigate to url 'https://automationexercis.com'",
     "uid" : "56d9c2fa9c55d818",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -2680,7 +2680,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Navigate to url 'http://automationexercise.com'",
+    "name" : "Navigate to url 'https://automationexercise.com'",
     "uid" : "a8828081a84e2bc9",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -2784,7 +2784,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Navigate to url 'http://automationexercise.com'",
+    "name" : "Navigate to url 'https://automationexercise.com'",
     "uid" : "32554cb1327279e2",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -2836,7 +2836,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Navigate to url 'http://automationexercise.com'",
+    "name" : "Navigate to url 'https://automationexercise.com'",
     "uid" : "531161ea52566bfc",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
@@ -2940,7 +2940,7 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Navigate to url 'http://automationexercise.com'",
+    "name" : "Navigate to url 'https://automationexercise.com'",
     "uid" : "a201d41450d02fe9",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",

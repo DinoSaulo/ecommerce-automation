@@ -10,7 +10,7 @@ const subscription = "Subscription" ;
 describe ("Test Case 26: Verify Scroll Up without 'Arrow' button and Scroll Down functionality", ()=>{
 
 
-    it ("TC - 2. Navigate to url 'http://automationexercise.com'", ()=>{
+    it ("TC - 2. Navigate to url 'https://automationexercise.com'", ()=>{
    
         cy.visit('/');
              

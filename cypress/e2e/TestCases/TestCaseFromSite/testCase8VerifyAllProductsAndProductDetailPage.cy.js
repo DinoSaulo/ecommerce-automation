@@ -7,7 +7,7 @@ const viewProductButtonText ="View Product";
 
 describe(" Test Case 8: Verify All Products and product detail page ", ()=>{
     
-    it ("Navigate to url 'http://automationexercise.com'", ()=>{
+    it ("Navigate to url 'https://automationexercise.com'", ()=>{
     
       cy.visit('/');
       cy.url().should("equal", Cypress.env("url"));

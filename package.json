@@ -1,7 +1,7 @@
 {
   "name": "e2e",
   "version": "1.0.0",
-  "description": "Cypress UI testing for this site -> http://automationpractice.com/index.php",
+  "description": "Cypress UI testing for this site -> https://automationpractice.com/index.php",
   "main": "index.js",
   "scripts": {
     "cy:run": "cypress run --browser chrome --headless",

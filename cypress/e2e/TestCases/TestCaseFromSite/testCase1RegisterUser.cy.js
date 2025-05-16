@@ -21,7 +21,7 @@ const mobileNumber = "+01235525" ;
 
 describe("Test Case 1: Register User", () =>{
 
-    it("Navigate to url 'http://automationexercise.com'",() =>{
+    it("Navigate to url 'https://automationexercise.com'",() =>{
 
       cy.visit('/');
       cy.url().should("equal", Cypress.env("url"));

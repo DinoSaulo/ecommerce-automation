@@ -8,7 +8,7 @@ const subscription = "Subscription" ;
 describe(" Test Case 10: Verify Subscription in home page ", ()=>{
 
 
-    it ("Navigate to url 'http://automationexercise.com'", ()=>{
+    it ("Navigate to url 'https://automationexercise.com'", ()=>{
     
         cy.visit('/');
         cy.url().should("equal", Cypress.env("url"));

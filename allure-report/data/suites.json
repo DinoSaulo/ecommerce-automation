@@ -4,7 +4,7 @@
   "children" : [ {
     "name" : " Test Case 10: Verify Subscription in home page ",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercise.com'",
+      "name" : "Navigate to url 'https://automationexercise.com'",
       "uid" : "5de6b53db05099ee",
       "parentUid" : "50b10e672467e8a95c232acfa23f03af",
       "status" : "passed",
@@ -86,7 +86,7 @@
   }, {
     "name" : " Test Case 11: Verify Subscription in Cart page ",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercise.com'",
+      "name" : "Navigate to url 'https://automationexercise.com'",
       "uid" : "f8ae342759877e30",
       "parentUid" : "7d2df72fefaf244b0c95597af0ac7b9d",
       "status" : "passed",
@@ -168,7 +168,7 @@
   }, {
     "name" : " Test Case 12: Add Products in Cart ",
     "children" : [ {
-      "name" : "TC - 2. Navigate to url 'http://automationexercise.com'",
+      "name" : "TC - 2. Navigate to url 'https://automationexercise.com'",
       "uid" : "bf349d65fcc049b1",
       "parentUid" : "c8c1331142ee685a82a087ed63aec108",
       "status" : "passed",
@@ -276,7 +276,7 @@
   }, {
     "name" : " Test Case 13: Verify Product quantity in Cart ",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercise.com'",
+      "name" : "Navigate to url 'https://automationexercise.com'",
       "uid" : "816d3725885c610a",
       "parentUid" : "80ae6b5016771b78d7ffd2ad970c814a",
       "status" : "passed",
@@ -384,7 +384,7 @@
   }, {
     "name" : " Test Case 14: Place Order: Register while Checkout ",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercise.com'",
+      "name" : "Navigate to url 'https://automationexercise.com'",
       "uid" : "e8f9a49ade11e4",
       "parentUid" : "1e109d2c97f5e0769f12fbc4b8d4a683",
       "status" : "passed",
@@ -635,7 +635,7 @@
   }, {
     "name" : " Test Case 15: Place Order: Register before Checkout ",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercise.com'",
+      "name" : "Navigate to url 'https://automationexercise.com'",
       "uid" : "c2e68105d72dfb0d",
       "parentUid" : "1aadfd402132d0ac21fbd44988eceff4",
       "status" : "passed",
@@ -847,7 +847,7 @@
   }, {
     "name" : "Test Case 16: Place Order: Login before Checkout",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercise.com'",
+      "name" : "Navigate to url 'https://automationexercise.com'",
       "uid" : "a40535852ec587be",
       "parentUid" : "e3a70f2c1253f2c7eec05ddc2ac1887a",
       "status" : "passed",
@@ -1059,7 +1059,7 @@
   }, {
     "name" : "Test Case 17: Remove Products From Cart",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercise.com'",
+      "name" : "Navigate to url 'https://automationexercise.com'",
       "uid" : "1c70e5d73606396e",
       "parentUid" : "083f9d8f078ec7f644067ba56ba9e86c",
       "status" : "passed",
@@ -1141,7 +1141,7 @@
   }, {
     "name" : "Test Case 18: View Category Products",
     "children" : [ {
-      "name" : " Navigate to url 'http://automationexercise.com'",
+      "name" : " Navigate to url 'https://automationexercise.com'",
       "uid" : "7c5d2a11a8e544b4",
       "parentUid" : "61ee14924ada42c80f3e653f9ad1e5dd",
       "status" : "passed",
@@ -1236,7 +1236,7 @@
   }, {
     "name" : "Test Case 19: View & Cart Brand Products",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercise.com'",
+      "name" : "Navigate to url 'https://automationexercise.com'",
       "uid" : "11cd9cd0b13a67d9",
       "parentUid" : "ece2e2bc3fc77ccfa5959375d9db7141",
       "status" : "passed",
@@ -1331,7 +1331,7 @@
   }, {
     "name" : "Test Case 1: Register User",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercise.com'",
+      "name" : "Navigate to url 'https://automationexercise.com'",
       "uid" : "75f0909d1fa2e5e1",
       "parentUid" : "4c198c45df7a7f788c6bb50a83e6a2a8",
       "status" : "passed",
@@ -1543,7 +1543,7 @@
   }, {
     "name" : "Test Case 20: Search Products and Verify Cart After Login",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercise.com'",
+      "name" : "Navigate to url 'https://automationexercise.com'",
       "uid" : "6ca154bc7c88fd34",
       "parentUid" : "91606134a5a81158661aa039ebac9d96",
       "status" : "passed",
@@ -1677,7 +1677,7 @@
   }, {
     "name" : "Test Case 21: Add review on product",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercise.com'",
+      "name" : "Navigate to url 'https://automationexercise.com'",
       "uid" : "dde400adc439bd6a",
       "parentUid" : "f7296103f72901f433d8bab082f5646e",
       "status" : "passed",
@@ -1785,7 +1785,7 @@
   }, {
     "name" : "Test Case 22: Add to cart from Recommended items",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercise.com'",
+      "name" : "Navigate to url 'https://automationexercise.com'",
       "uid" : "c4f289b643a67d53",
       "parentUid" : "3bdc7ed47f9919fa7a30d5bc991160a1",
       "status" : "passed",
@@ -1867,7 +1867,7 @@
   }, {
     "name" : "Test Case 23: Verify address details in checkout page",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercise.com'",
+      "name" : "Navigate to url 'https://automationexercise.com'",
       "uid" : "eaae089ffd41e9a1",
       "parentUid" : "10d411b2b379d00ee92c0de927a7951d",
       "status" : "passed",
@@ -2053,7 +2053,7 @@
   }, {
     "name" : "Test Case 24: Download Invoice after purchase order",
     "children" : [ {
-      "name" : "TC - 2. Navigate to url 'http://automationexercise.com'",
+      "name" : "TC - 2. Navigate to url 'https://automationexercise.com'",
       "uid" : "6fc12623adf130a5",
       "parentUid" : "3f19d7526e8eca66c5283a2bf07cbd9d",
       "status" : "passed",
@@ -2278,7 +2278,7 @@
   }, {
     "name" : "Test Case 25: Verify Scroll Up using 'Arrow' button and Scroll Down functionality",
     "children" : [ {
-      "name" : "TC - 2. Navigate to url 'http://automationexercise.com'",
+      "name" : "TC - 2. Navigate to url 'https://automationexercise.com'",
       "uid" : "fe7ccccc4a85d07f",
       "parentUid" : "75f6679d0f2cf8b4f7b722a5472ec7fd",
       "status" : "passed",
@@ -2360,7 +2360,7 @@
   }, {
     "name" : "Test Case 26: Verify Scroll Up without 'Arrow' button and Scroll Down functionality",
     "children" : [ {
-      "name" : "TC - 2. Navigate to url 'http://automationexercise.com'",
+      "name" : "TC - 2. Navigate to url 'https://automationexercise.com'",
       "uid" : "8080463056166070",
       "parentUid" : "2b57ec705bce25b47ede6d83a5fe6442",
       "status" : "passed",
@@ -2442,7 +2442,7 @@
   }, {
     "name" : "Test Case 2: Login User with correct email and password",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercise.com'",
+      "name" : "Navigate to url 'https://automationexercise.com'",
       "uid" : "c2b4d71d07d589be",
       "parentUid" : "4901ab2d7940a00e160ea80097de6104",
       "status" : "passed",
@@ -2550,7 +2550,7 @@
   }, {
     "name" : "Test Case 3: Login User with incorrect email and password",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercise.com'",
+      "name" : "Navigate to url 'https://automationexercise.com'",
       "uid" : "834c47ddb198b674",
       "parentUid" : "3bad0dc8951a0706b49b1bdf60dae112",
       "status" : "passed",
@@ -2645,7 +2645,7 @@
   }, {
     "name" : "Test Case 4: Logout User",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercis.com'",
+      "name" : "Navigate to url 'https://automationexercis.com'",
       "uid" : "56d9c2fa9c55d818",
       "parentUid" : "ee4be7ef9a3ea75b189bae5e554b1a41",
       "status" : "passed",
@@ -2766,7 +2766,7 @@
   }, {
     "name" : "Test Case 5: Register User with existing email",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercise.com'",
+      "name" : "Navigate to url 'https://automationexercise.com'",
       "uid" : "a8828081a84e2bc9",
       "parentUid" : "f624034a6a3fdb4099f5a4eafa02e6a3",
       "status" : "passed",
@@ -2878,7 +2878,7 @@
   }, {
     "name" : " Test Case 7: Verify Test Cases Page ",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercise.com'",
+      "name" : "Navigate to url 'https://automationexercise.com'",
       "uid" : "32554cb1327279e2",
       "parentUid" : "803e0d920dc1cd768c5b471a19b1acee",
       "status" : "passed",
@@ -2934,7 +2934,7 @@
   }, {
     "name" : " Test Case 8: Verify All Products and product detail page ",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercise.com'",
+      "name" : "Navigate to url 'https://automationexercise.com'",
       "uid" : "531161ea52566bfc",
       "parentUid" : "426d2d4bdb8660b5dcd93f29f65fd1a4",
       "status" : "passed",
@@ -3042,7 +3042,7 @@
   }, {
     "name" : " Test Case 9: Search Product ",
     "children" : [ {
-      "name" : "Navigate to url 'http://automationexercise.com'",
+      "name" : "Navigate to url 'https://automationexercise.com'",
       "uid" : "a201d41450d02fe9",
       "parentUid" : "c5e42e6b14f81aceb8710516c18a506c",
       "status" : "passed",

@@ -12,7 +12,7 @@ const elementVisible = "Is Visible";
 describe("Test Case 5: Register User with existing email", ()=>{
 
 
-    it("Navigate to url 'http://automationexercise.com'",() =>{
+    it("Navigate to url 'https://automationexercise.com'",() =>{
 
       cy.visit('/');
       cy.url().should("equal", Cypress.env("url"));

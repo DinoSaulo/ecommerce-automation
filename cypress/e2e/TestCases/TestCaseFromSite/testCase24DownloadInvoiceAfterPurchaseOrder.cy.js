@@ -27,7 +27,7 @@ beforeEach(() => {
   });
 
 describe ("Test Case 24: Download Invoice after purchase order", ()=>{
-    it ("TC - 2. Navigate to url 'http://automationexercise.com'", ()=>{
+    it ("TC - 2. Navigate to url 'https://automationexercise.com'", ()=>{
     
         cy.visit('/');
         cy.url().should("equal", Cypress.env("url"));

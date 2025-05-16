@@ -7,7 +7,7 @@ const elementVisible = "Is Visible";
 describe("Test Case 3: Login User with incorrect email and password", ()=>{
 
 
-    it ("Navigate to url 'http://automationexercise.com'", ()=>{
+    it ("Navigate to url 'https://automationexercise.com'", ()=>{
    
     
       cy.visit('/');

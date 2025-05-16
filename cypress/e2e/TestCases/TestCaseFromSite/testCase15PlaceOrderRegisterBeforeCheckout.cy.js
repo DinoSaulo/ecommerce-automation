@@ -4,7 +4,7 @@ describe(" Test Case 15: Place Order: Register before Checkout ", ()=>{
 
 
 
-it ("Navigate to url 'http://automationexercise.com'", ()=>{
+it ("Navigate to url 'https://automationexercise.com'", ()=>{
 
     cy.visit('/');
     cy.url().should("equal", Cypress.env("url"));
