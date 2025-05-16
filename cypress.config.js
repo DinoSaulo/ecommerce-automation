@@ -19,6 +19,9 @@ module.exports = defineConfig({
     embeddedScreenshots: true,
     inlineAssets: true,
   },
+  env: {
+    url: 'https://www.automationexercise.com/'
+  },
   e2e: {
     // We've imported your old cypress plugins here.
     // You may want to clean this up later by importing these.
@@ -26,6 +29,5 @@ module.exports = defineConfig({
       return require('./cypress/plugins/index.js')(on, config)
     },
     baseUrl: 'https://www.automationexercise.com/',
-    url: 'https://seusite.com'
   },
 })
